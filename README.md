@@ -27,51 +27,52 @@
   Designed a structured Power BI dashboard featuring KPI cards to highlight total sales, profit, quantity sold, average order value, and profit margin. Built product analytics visuals including category-wise and sub-category sales charts, along with a Top 10 products analysis to identify best-selling items. Created regional analytics visuals to compare sales and profit performance across regions, enabling quick identification of high-performing and underperforming markets.
 
 ### 5. Insights and Business Impact
-  #### 📌 1️⃣ Revenue & Profit Insights
-        KPIs / Charts Used: Total Sales Card, Total Profit Card, Profit Margin Card, and Monthly Sales Trend (Line Chart)
 
-  ##### Q1. Which month generated the highest revenue?
-    Answer: November and December generated the highest revenue, indicating strong seasonal demand during the year-end festive and holiday period.
-    Business Impact: The company should increase inventory levels and marketing spend during these months to maximize revenue.
+#### 📌 1️⃣ Revenue & Profit Insights
+      KPIs / Charts Used: Total Sales Card, Total Profit Card, Profit Margin Card, and Monthly Sales Trend (Line Chart)
 
-  ##### Q2. Which product category contributes most to sales and profit?
-    Answer: The Technology category contributes the highest share of total sales and profit, making it the most valuable category for the business.
-    Business Impact: Sales and marketing teams should prioritize Technology for promotions, inventory planning, and new product launches.
+##### Q1. Which month generated the highest revenue?
+Answer: November and December generated the highest revenue, indicating strong seasonal demand during the year-end festive and holiday period.
+Business Impact: The company should increase inventory levels and marketing spend during these months to maximize revenue.
 
-  ##### Q3. Are there months with declining profit margin?
-  Answer: Yes, certain months show declining profit margins despite stable sales, mainly due to higher discounts and promotional offers.
-  Business Impact: Finance and marketing teams should review discount strategies to protect profitability.
+##### Q2. Which product category contributes most to sales and profit?
+Answer: The Technology category contributes the highest share of total sales and profit, making it the most valuable category for the business.
+Business Impact: Sales and marketing teams should prioritize Technology for promotions, inventory planning, and new product launches.
+
+##### Q3. Are there months with declining profit margin?
+Answer: Yes, certain months show declining profit margins despite stable sales, mainly due to higher discounts and promotional offers.
+Business Impact: Finance and marketing teams should review discount strategies to protect profitability.
   
-  Departments Using This Insight: Sales, Finance, Marketing
+Departments Using This Insight: Sales, Finance, Marketing
 
-  #### 📌 2️⃣ Product & Category Analysis
-      KPIs / Charts Used: Sales by Category (Column Chart), Sales by Sub-Category (Bar Chart), and Top 10 Products by Sales (Horizontal Bar Chart)
+#### 📌 2️⃣ Product & Category Analysis
+KPIs / Charts Used: Sales by Category (Column Chart), Sales by Sub-Category (Bar Chart), and Top 10 Products by Sales (Horizontal Bar Chart)
 
-  ##### Q4. Which sub-categories are underperforming?
-    Answer: Some sub-categories such as Appiances, Bookcases, Copiers and Accessories show consistently low sales and profit compared to others.
-    Business Impact: These products require pricing review, cost optimization, or potential discontinuation.
+##### Q4. Which sub-categories are underperforming?
+Answer: Some sub-categories such as Appiances, Bookcases, Copiers and Accessories show consistently low sales and profit compared to others.
+Business Impact: These products require pricing review, cost optimization, or potential discontinuation.
 
-  ##### Q5. What are the 10 top-selling products?
-    Answer: The Top 10 products account for a significant portion of total sales, indicating strong customer preference for a small set of products.
-    Business Impact: These products should be prioritized for inventory availability and bundled offers.
+##### Q5. What are the 10 top-selling products?
+Answer: The Top 10 products account for a significant portion of total sales, indicating strong customer preference for a small set of products.
+Business Impact: These products should be prioritized for inventory availability and bundled offers.
 
-  Departments Using This Insight: Sales, Product Management, and Inventory
+Departments Using This Insight: Sales, Product Management, and Inventory
 
-  #### 📌 3️⃣ Regional Analysis
-    KPIs / Charts Used: Sales by Region (Pie Chart / Map) and Profit by Region (Column Chart)
+#### 📌 3️⃣ Regional Analysis
+KPIs / Charts Used: Sales by Region (Pie Chart / Map) and Profit by Region (Column Chart)
 
-  ##### Q7. Which region contributes most to revenue?
-    Answer: The West region contributes the highest revenue and profit, making it the strongest performing region.
-    Business Impact: The business should continue investing in this region to sustain growth.
+##### Q7. Which region contributes most to revenue?
+Answer: The West region contributes the highest revenue and profit, making it the strongest performing region.
+Business Impact: The business should continue investing in this region to sustain growth.
 
-  ##### Q8. Are there underperforming regions?
-    Answer: The South and Central regions show lower profit margins compared to their sales contribution.
-    Business Impact: Operational efficiency and regional pricing strategies need improvement.
+##### Q8. Are there underperforming regions?
+Answer: The South and Central regions show lower profit margins compared to their sales contribution.
+Business Impact: Operational efficiency and regional pricing strategies need improvement.
 
-  ##### Q9. Where should marketing campaigns be focused?
-  Answer: Marketing campaigns should be focused on underperforming regions to improve sales while maintaining profitability.
+##### Q9. Where should marketing campaigns be focused?
+Answer: Marketing campaigns should be focused on underperforming regions to improve sales while maintaining profitability.
 
-  Departments Using This Insight: Sales, Marketing, Operations
+Departments Using This Insight: Sales, Marketing, Operations
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
