@@ -9,12 +9,12 @@
   Superstore e-commerce sales overview dashboard is build in Power BI to track key sales and profit KPIs, identify top-performing products and regions, evaluate customer segments, and uncover seasonal sales trends. Built an interactive dashboard to support data-driven decisions for sales, marketing, finance, and operations teams.
 
 ### 3. Goal of this dashboard
-  Key Business Goals Covered
+  Key Business Goals Covered<br>
     • Track total sales, profit, quantity sold, and average order value<br>
-    • Identify top and low performing product categories and sub-categories
-    • Analyze sales and profit by region and customer segment
-    • Understand monthly and yearly sales trends and seasonality
-    • Evaluate the impact of discounts on profitability
+    • Identify top and low performing product categories and sub-categories<br>
+    • Analyze sales and profit by region and customer segment<br>
+    • Understand monthly and yearly sales trends and seasonality<br>
+    • Evaluate the impact of discounts on profitability<br>
 
 ### 3.	Tech Stack
   The dashboard was built using the following tools and technologies:<br>
@@ -29,7 +29,7 @@
 ### 5. Insights and Business Impact
 
 #### 📌 1️⃣ Revenue & Profit Insights
-      KPIs / Charts Used: Total Sales Card, Total Profit Card, Profit Margin Card, and Monthly Sales Trend (Line Chart)
+KPIs / Charts Used: Total Sales Card, Total Profit Card, Profit Margin Card, and Monthly Sales Trend (Line Chart)
 
 ##### Q1. Which month generated the highest revenue?
 Answer: November and December generated the highest revenue, indicating strong seasonal demand during the year-end festive and holiday period.
