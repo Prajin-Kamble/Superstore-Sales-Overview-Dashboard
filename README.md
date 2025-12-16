@@ -16,17 +16,18 @@ Superstore e-commerce sales overview dashboard is build in Power BI to track key
 • Understand monthly and yearly sales trends and seasonality<br>
 • Evaluate the impact of discounts on profitability<br>
 
-## 3.	Tech Stack
+## 4.	Tech Stack
+
 ### The dashboard was built using the following tools and technologies:<br>
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
 •	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
-## 4. The key visuals
+## 5. The key visuals
 Designed a structured Power BI dashboard featuring KPI cards to highlight total sales, profit, quantity sold, average order value, and profit margin. Built product analytics visuals including category-wise and sub-category sales charts, along with a Top 10 products analysis to identify best-selling items. Created regional analytics visuals to compare sales and profit performance across regions, enabling quick identification of high-performing and underperforming markets.
 
-## 5. Insights and Business Impact
+## 6. Insights and Business Impact
 
 ### 📌 1️⃣ Revenue & Profit Insights
 KPIs / Charts Used: Total Sales Card, Total Profit Card, Profit Margin Card, and Monthly Sales Trend (Line Chart)
@@ -74,6 +75,6 @@ Answer: Marketing campaigns should be focused on underperforming regions to impr
 
 Departments Using This Insight: Sales, Marketing, Operations
 
-## 6.	Screenshots / Demos
+## 7.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/Prajin-Kamble/Superstore-Sales-Overview-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
